@@ -377,7 +377,7 @@ namespace ServiceAccountExclusions
                     grpServiceAccountExclusions = new GroupPrincipal(ctxExclusionGroupLocation);
                     grpServiceAccountExclusions.Name = "ServiceAccountExclusions";
                     grpServiceAccountExclusions.SamAccountName = "ServiceAccountExclusions";
-                    grpServiceAccountExclusions.Description = "SystemsAdminPro Exclusions";
+                    grpServiceAccountExclusions.Description = "Service Account Exclusions";
                     grpServiceAccountExclusions.Save();
                 }
 
