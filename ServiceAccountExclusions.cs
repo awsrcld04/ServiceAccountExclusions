@@ -169,7 +169,7 @@ namespace ServiceAccountExclusions
 
         static void funcPrintParameterSyntax()
         {
-            Console.WriteLine("ServiceAccountExclusions (c) 2011 SystemsAdminPro.com");
+            Console.WriteLine("ServiceAccountExclusions");
             Console.WriteLine();
             Console.WriteLine("Description: Find service accounts and create exclusions");
             Console.WriteLine();
