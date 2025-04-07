@@ -336,8 +336,6 @@ namespace ServiceAccountExclusions
         {
             try
             {
-                funcProgramRegistryTag("ServiceAccountExclusions");
-
                 funcLogToEventLog("ServiceAccountExclusions", "ServiceAccountExclusions started", 100);
 
                 TextWriter twOutputLog = funcOpenOutputLog();
