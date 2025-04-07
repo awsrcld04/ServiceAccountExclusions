@@ -516,7 +516,6 @@ namespace ServiceAccountExclusions
             dCatchTable.Add("funcPrintParameterSyntax", "f3");
             dCatchTable.Add("funcParseCmdArguments", "f4");
             dCatchTable.Add("funcProgramExecution", "f5");
-            dCatchTable.Add("funcProgramRegistryTag", "f6");
             dCatchTable.Add("funcCreateDSSearcher", "f7");
             dCatchTable.Add("funcCreatePrincipalContext", "f8");
             dCatchTable.Add("funcCheckNameExclusion", "f9");
